@@ -48,7 +48,7 @@
   /* Change color on hover */
   .navbar a:hover {
     background-color: #ffaa00;
-    color: black;
+    color: rgb(255, 255, 255);
   }
   
   /* Change color on active */
