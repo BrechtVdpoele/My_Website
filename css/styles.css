@@ -53,7 +53,7 @@
   
   /* Change color on active */
   .navbar a:active {
-    background-color: rgb(92, 138, 245);
+    background-color: #d2a100;
     color: black;
   }
   
