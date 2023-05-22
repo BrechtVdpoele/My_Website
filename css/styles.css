@@ -24,7 +24,7 @@
   /* Style the top navigation bar */
   .navbar {
     overflow: hidden;
-    background-color: #e4ae0a;
+    background-color: #d2a100;
     position: fixed; /* Set the navbar to fixed position */
     width: 100%;
   }
@@ -47,7 +47,7 @@
   
   /* Change color on hover */
   .navbar a:hover {
-    background-color: #ddd;
+    background-color: #ffaa00;
     color: black;
   }
   
@@ -87,7 +87,7 @@
   .fakeimg {
     background-color: #e4ae0a;
     width: 100%;
-    padding: 2px;
+    padding: 5px;
   }
   
   /* Footer */
